@@ -1,0 +1,2 @@
+possibilité d'amelioration au niveau de la fonction Ecrirenoeud et EcrireLien (on peut la faire en une fonction statique).
+possibilité de programmation de la fonction atoi pour une meilleur gestion.
